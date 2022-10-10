@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center"> Prazer!! <br> Willian Pablo Medina <br> <span > :earth_americas: 	:brazil:  </span></h1>
+  <h1 align="left"> Prazer!! <br><span align="center"> Willian Pablo Medina </span><br> <span > :earth_americas: 	:brazil:  </span></h1>
 <br>
 <br>
 <br>
