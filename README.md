@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center"> Seja bem vindo, meu nome é Willian Pablo Medina <br> <span > :earth_americas: 	:brazil:  </span></h1>
+  <h1 align="center"> Prazer!! <br> Willian Pablo Medina <br> <span > :earth_americas: 	:brazil:  </span></h1>
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@
 <h2 align="center">Você pode me procurar em: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in//">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
